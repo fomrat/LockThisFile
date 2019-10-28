@@ -17,8 +17,6 @@ static public class FileUtilities
             toLock = args[0];
         }
 
-
-        // "C:\\Users\\ll56150\\AppData\\Roaming\\Corp\\ClientCashManagement\\CCM.config";
         FileStream streamLocked;
         try
         {
